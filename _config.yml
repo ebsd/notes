@@ -30,7 +30,8 @@ twitter_username: eriic41
 github_username: ebsd 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
+#remote_theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
