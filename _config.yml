@@ -22,8 +22,8 @@ title: the nap analysis notes
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   My notes.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notes.h4t.eu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notes" # the subpath of your site, e.g. /blog
+url: "https://ebsd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eriic41
 github_username: ebsd 
 
